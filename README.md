@@ -282,7 +282,8 @@ plt.show()
 <img width="645" height="432" alt="Image" src="https://github.com/user-attachments/assets/6d9fffa0-3613-4dc9-ba13-6a598f8d9b8b" />
 </div>
 <br><br>
-## Resumo da Análise Exploratória (EDA)
+
+### Resumo da Análise Exploratória (EDA)
 > Concluímos a primeira grande etapa do projeto! Com estes 4 gráficos, descobrimos informações valiosas:
 
 * Nosso dataset é desbalanceado (temos mais casos de não-Alzheimer).

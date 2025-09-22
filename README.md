@@ -9,7 +9,7 @@
 <div align="center">
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python)](https://www.python.org/)
-[![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/datasets/sagnikseal/alzheimers-disease-dataset)
+[![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/datasets/sagnikseal/alzheimers-disease-dataset](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset?resource=download))
 [![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow?style=for-the-badge)]()
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](https://opensource.org/licenses/MIT)
 

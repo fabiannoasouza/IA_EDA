@@ -165,6 +165,12 @@ plt.ylabel('Quantidade de Pacientes', fontsize=12)
 # Exibe o gráfico
 plt.show()
 ```
+<br>
+<div align="center">
+<img width="608" height="455" alt="Image" src="https://github.com/user-attachments/assets/ee2c7218-0c26-4ecc-a43b-5cc672cf6a76" />
+</div>
+<br><br>
+
 **Insight Importante: Dataset Desbalanceado**
 
 A visualização anterior confirma que nosso dataset é **desbalanceado**. Isso é muito importante porque, se não tomarmos cuidado, nosso modelo de machine learning poderia ficar "preguiçoso". Ele poderia aprender a chutar sempre "Não Alzheimer" e ainda assim ter uma acurácia alta, simplesmente porque essa é a maioria. Vamos manter isso em mente para a etapa de treinamento dos modelos.
@@ -193,6 +199,10 @@ plt.legend(title='Diagnóstico', labels=['Alzheimer', 'Não Alzheimer']) # Ajust
 # Exibe o gráfico
 plt.show()
 ```
+<br>
+<div align="center">
+<img width="667" height="455" alt="Image" src="https://github.com/user-attachments/assets/ff898dcb-3f99-41f5-a5fd-4c52f62d8ce7" />
+</div><br><br>
 **Analisando as Curvas:**
 
 Observe novamente o gráfico:
@@ -229,7 +239,12 @@ plt.ylabel('Pontuação no Teste MMSE', fontsize=12)
 # Exibe o gráfico
 plt.show()
 ```
-
+<br>
+<div align="center">
+<img width="590" height="532" alt="Image" src="https://github.com/user-attachments/assets/511c5cda-1872-49f0-91cc-9c9960e48fe6" />
+</div>
+<br><br>
+  
 > Como ler este gráfico:
 * A linha no meio de cada caixa é a mediana (o valor do meio).
 * A caixa em si representa 50% dos pacientes, mostrando a faixa de pontuação mais comum.
@@ -262,7 +277,11 @@ plt.ylabel('Pontuação no Teste MMSE', fontsize=12)
 # Exibe o gráfico
 plt.show()
 ```
-
+<br>
+<div align="center">
+<img width="645" height="432" alt="Image" src="https://github.com/user-attachments/assets/6d9fffa0-3613-4dc9-ba13-6a598f8d9b8b" />
+</div>
+<br><br>
 ## Resumo da Análise Exploratória (EDA)
 > Concluímos a primeira grande etapa do projeto! Com estes 4 gráficos, descobrimos informações valiosas:
 

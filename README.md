@@ -290,3 +290,6 @@ plt.show()
 * A idade avançada está associada ao diagnóstico.
 * Uma pontuação MMSE baixa é um forte indicador da doença.
 * A combinação de idade e MMSE nos ajuda a separar visualmente os dois grupos.
+
+---
+### Modelagem Preditiva ** Em breve **
